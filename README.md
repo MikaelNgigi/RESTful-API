@@ -6,7 +6,7 @@ A Simple PHP REST API that consumes database dummy data and displays it in JSON 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects and understand AI & Machine Learning.
+- 🥅 2021 Goals: Contribute more to Open Source projects and understand AI & Machine Learning.
 - ⚡ Fun fact: I love to the whole concept of machine and deep learning.
 ### Connect with me:
 
